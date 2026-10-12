@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Master",
+  "description": "A premium 3D multiplayer Ludo game featuring real-time matches, tournaments, team battles, voice chat, and social features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
